@@ -51,7 +51,9 @@ function App() {
       state,
       city,
       email,
-      indication
+      indication,
+      cel,
+      cep
     },{
       headers: {
         'Access-Control-Allow-Origin': '*'
